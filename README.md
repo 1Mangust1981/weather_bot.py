@@ -1,5 +1,5 @@
 # Weather Telegram Bot
-- Этот проект представляет собой Telegram-бота, который предоставляет информацию о текущей погоде в указанном городе, используя API OpenWeatherMap и библиотеку `python-telegram-bot`.
+- Этот проект представляет собой Telegram-бота, который предоставляет информацию о текущей погоде в указанном городе, используя API OpenWeatherMap и библиотеку `python-telegram-bot`, `requests`.
 
 ## Пример результата
 - ![Screenshot_20250401_222848](https://github.com/user-attachments/assets/09d23a35-237f-4dd4-a440-951ebb261b12)
